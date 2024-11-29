@@ -29,7 +29,7 @@ The tool is a wickedly powerful Python script that allows you to generate and ch
 ## 📝 How to Run it
 
 1. **Python 3.x Required:** Ensure that you have Python 3.x installed to summon this tool.
-2. **Run the py:** Run the script with `python Hajduk's Token Tools 1.0.py` and let the darkness unfold.
+2. **Run the py:** Run the script with `python Hajduk's Token Tools.py` or just double click on it.
 3. **Obtain the User ID:** Get the UID of your target with a Developer-mode unlocked Discord.
 4. **Get the first parts of the token:** Use the option to conver the UID to Base64, then save it, then use the other option to get the second part of the Token.
 5. **Start generating Tokens:** Use the option to generate Tokens, and input the first two parts as needed.
