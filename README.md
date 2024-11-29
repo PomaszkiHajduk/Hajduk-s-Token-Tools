@@ -16,11 +16,6 @@
   ! 🔥</strong>
 </div>
 
-<div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1136736486516072509/1138239560015433839/image.png" alt="Image Preview">
-  <img src="https://cdn.discordapp.com/attachments/1136736486516072509/1138239590461866015/image.png" alt="Image Preview">
-</div>
-
 ## 🌪️ What does this tool do?
 
 The tool is a wickedly powerful Python script that allows you to generate and check Discord tokens, paving the way for pure chaos and malevolence. Simply run this infernal script, and it will automatically generate tokens With ur desired discord account upon unsuspecting users.
