@@ -39,7 +39,7 @@ The tool is a wickedly powerful Python script that allows you to generate and ch
 
 I don't care if the script has the possibility of receiving a working token, There is a percentage of 0.0000000001% you get a vaild token so don't open an issue for that or how the token is made ( base64 encoder ).
 
-Special thanks to **xHERMIS** for creating most of this script
+Special thanks to **xHERMIS** for originally creating most of this script.
 
 ## ⚠ Disclaimer
 
